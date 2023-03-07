@@ -165,6 +165,9 @@ params:
     - name: smp6
       category: SMP proxy servers
       description: smp6.simplex.im
+    - name: smp7
+      category: SMP proxy servers
+      description: smp7.simplex.im
     - name: smp8
       category: SMP proxy servers
       description: smp8.simplex.im
